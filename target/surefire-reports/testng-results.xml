@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-11T01:02:34 IST" name="Suite" finished-at="2021-07-11T01:02:34 IST" duration-ms="30">
+    <groups>
+    </groups>
+    <test started-at="2021-07-11T01:02:34 IST" name="Test" finished-at="2021-07-11T01:02:34 IST" duration-ms="30">
+      <class name="Closebrothersproject.Mavenjava.SeleniumTest">
+        <test-method signature="printfourth()[pri:0, instance:Closebrothersproject.Mavenjava.SeleniumTest@3972a855]" started-at="2021-07-11T01:02:34 IST" name="printfourth" finished-at="2021-07-11T01:02:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printfourth -->
+        <test-method signature="printthird()[pri:0, instance:Closebrothersproject.Mavenjava.SeleniumTest@3972a855]" started-at="2021-07-11T01:02:34 IST" name="printthird" finished-at="2021-07-11T01:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printthird -->
+      </class> <!-- Closebrothersproject.Mavenjava.SeleniumTest -->
+      <class name="Closebrothersproject.Mavenjava.AppiumTest">
+        <test-method signature="printfirst()[pri:0, instance:Closebrothersproject.Mavenjava.AppiumTest@3d1cfad4]" started-at="2021-07-11T01:02:34 IST" name="printfirst" finished-at="2021-07-11T01:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printfirst -->
+        <test-method signature="printsecond()[pri:0, instance:Closebrothersproject.Mavenjava.AppiumTest@3d1cfad4]" started-at="2021-07-11T01:02:34 IST" name="printsecond" finished-at="2021-07-11T01:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printsecond -->
+      </class> <!-- Closebrothersproject.Mavenjava.AppiumTest -->
+      <class name="Closebrothersproject.Mavenjava.APITest">
+        <test-method signature="printsixth()[pri:0, instance:Closebrothersproject.Mavenjava.APITest@62230c58]" started-at="2021-07-11T01:02:34 IST" name="printsixth" finished-at="2021-07-11T01:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printsixth -->
+        <test-method signature="printfifth()[pri:0, instance:Closebrothersproject.Mavenjava.APITest@62230c58]" started-at="2021-07-11T01:02:34 IST" name="printfifth" finished-at="2021-07-11T01:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printfifth -->
+      </class> <!-- Closebrothersproject.Mavenjava.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
